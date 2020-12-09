@@ -1,0 +1,74 @@
+body {
+  background-image: linear-gradient(
+    to right top,
+    #e5f4e5,
+    #bee8d7,
+    #90dcd6,
+    #5acddf,
+    #12bceb
+  );
+
+  height: 1000px;
+}
+
+.App {
+  font-family: sans-serif;
+  height: 100%;
+  width: 1000px;
+  background-image: linear-gradient(
+    to right top,
+    #e5f4e5,
+    #cbf5c1,
+    #b9f497,
+    #adf065,
+    #a8eb12
+  );
+}
+
+.type {
+  color: coral;
+}
+
+.resultButton {
+  background-color: lightseagreen;
+}
+
+.submitbutton {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: lightgreen;
+}
+
+.levels {
+  font-weight: bold;
+  color: darkorchid;
+}
+.levelname {
+  color: forestgreen;
+}
+
+.buttons {
+  margin-left: 10px;
+}
+
+.buttongroup {
+  display: flex;
+  margin: 10px;
+}
+
+.box {
+  height: 100px;
+  width: 300px;
+  border: 1px solid greenyellow;
+  margin-top: 10px;
+  margin-left: 100px;
+  background-color: darkgrey;
+}
+
+.name {
+  color: darkorange;
+}
+
+.result {
+  color: darkmagenta;
+}
